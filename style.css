@@ -1,7 +1,13 @@
 body{
     max-width: 1000px;
+    font-family: 'Times New Roman', Times, serif;
     }
-a{
+
+a {
     color: black;
-    margin: 3px;
+    margin: 2px;
+}
+
+img {
+    width: 350px;
 }

@@ -1,0 +1,22 @@
+body{
+    max-width: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+div a{
+    text-decoration: none;
+    background-color:darkorchid;
+    color: rgb(255, 255, 255);
+    margin: 3px;
+}
+
+#biru{
+    background-color: darkmagenta;
+}
+
+.hitam{
+    background-color: blueviolet;
+}
+img{
+    width: 350px;
+}
